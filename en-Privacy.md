@@ -39,8 +39,8 @@ https://firebase.google.com/docs/auth
     •	Firebase Analytics: To track user behavior and app usage, helping us improve the App and understand user preferences. Learn more about how Firebase Analytics works here.
 https://firebase.google.com/docs/analytics
 
-    •	Firebase Crashlytics: To monitor and improve app stability by collecting crash reports and diagnostics. Learn more about Firebase Crashlytics here.
-<https://firebase.google.com/docs/crashlytics>
+    •	[Firebase Crashlytics](https://firebase.google.com/docs/crashlytics): To monitor and improve app stability by collecting crash reports and diagnostics. Learn more about Firebase Crashlytics here.
+
 
 You can also review Google’s overall privacy practices as they relate to Firebase services here.
 
