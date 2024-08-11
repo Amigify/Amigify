@@ -40,7 +40,7 @@ https://firebase.google.com/docs/auth
 https://firebase.google.com/docs/analytics
 
     •	Firebase Crashlytics: To monitor and improve app stability by collecting crash reports and diagnostics. Learn more about Firebase Crashlytics here.
-https://firebase.google.com/docs/crashlytics
+[https://firebase.google.com/docs/crashlytics]
 
 You can also review Google’s overall privacy practices as they relate to Firebase services here.
 
